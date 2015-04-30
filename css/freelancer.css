@@ -194,6 +194,10 @@ section.success {
     }
 }
 
+/******************************
+SECTION: WHAT
+******************************/
+
 #what .what-item {
     right: 0;
     margin: 0 0 15px;
@@ -251,7 +255,9 @@ section.success {
     }
 }
 
-/**/
+/******************************
+SECTION: WHO
+******************************/
 
 #who .who-item {
     right: 0;
